@@ -37,6 +37,14 @@ POST {{host}}/auth/register
 ```yml
 POST {{host}}/auth/login
 ```
+#### Login Request
+
+```json
+{
+    "email": "m.ellaithy11@gmail.com",
+    "password": "Abcd123"
+}
+```
 ### Login Response
 ```json
 {
