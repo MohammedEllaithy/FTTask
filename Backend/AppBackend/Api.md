@@ -33,11 +33,11 @@ POST {{host}}/auth/register
 ```js
 200 Ok
 ```
-
+### Login
 ```yml
 POST {{host}}/auth/login
 ```
-
+### Login Response
 ```json
 {
     "id": "78c4dfee-2ec2-4df9-a1c1-37a09dee1a06",
