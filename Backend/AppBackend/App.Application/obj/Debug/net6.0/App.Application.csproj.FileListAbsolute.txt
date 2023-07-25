@@ -1,0 +1,15 @@
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Application\bin\Debug\net6.0\App.Application.deps.json
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Application\bin\Debug\net6.0\App.Application.dll
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Application\bin\Debug\net6.0\App.Application.pdb
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Application\bin\Debug\net6.0\App.Domain.dll
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Application\bin\Debug\net6.0\App.Domain.pdb
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Application\obj\Debug\net6.0\App.Application.csproj.AssemblyReference.cache
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Application\obj\Debug\net6.0\App.Application.GeneratedMSBuildEditorConfig.editorconfig
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Application\obj\Debug\net6.0\App.Application.AssemblyInfoInputs.cache
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Application\obj\Debug\net6.0\App.Application.AssemblyInfo.cs
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Application\obj\Debug\net6.0\App.Application.csproj.CoreCompileInputs.cache
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Application\obj\Debug\net6.0\App.Application.csproj.CopyComplete
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Application\obj\Debug\net6.0\App.Application.dll
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Application\obj\Debug\net6.0\refint\App.Application.dll
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Application\obj\Debug\net6.0\App.Application.pdb
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Application\obj\Debug\net6.0\ref\App.Application.dll

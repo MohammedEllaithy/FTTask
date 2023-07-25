@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "I:\\FlairsTech\\Assesment\\FT Task\\Backend\\AppBackend\\App.Contracts\\App.Contracts.csproj": {}
+  },
+  "projects": {
+    "I:\\FlairsTech\\Assesment\\FT Task\\Backend\\AppBackend\\App.Contracts\\App.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "I:\\FlairsTech\\Assesment\\FT Task\\Backend\\AppBackend\\App.Contracts\\App.Contracts.csproj",
+        "projectName": "App.Contracts",
+        "projectPath": "I:\\FlairsTech\\Assesment\\FT Task\\Backend\\AppBackend\\App.Contracts\\App.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Toshiba\\.nuget\\packages\\",
+        "outputPath": "I:\\FlairsTech\\Assesment\\FT Task\\Backend\\AppBackend\\App.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Toshiba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

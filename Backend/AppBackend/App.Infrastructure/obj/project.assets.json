@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "App.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "App.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/App.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App.Application.dll": {}
+        }
+      },
+      "App.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/App.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App.Application/1.0.0": {
+      "type": "project",
+      "path": "../App.Application/App.Application.csproj",
+      "msbuildProject": "../App.Application/App.Application.csproj"
+    },
+    "App.Domain/1.0.0": {
+      "type": "project",
+      "path": "../App.Domain/App.Domain.csproj",
+      "msbuildProject": "../App.Domain/App.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "App.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Toshiba\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "I:\\FlairsTech\\Assesment\\FT Task\\Backend\\AppBackend\\App.Infrastructure\\App.Infrastructure.csproj",
+      "projectName": "App.Infrastructure",
+      "projectPath": "I:\\FlairsTech\\Assesment\\FT Task\\Backend\\AppBackend\\App.Infrastructure\\App.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Toshiba\\.nuget\\packages\\",
+      "outputPath": "I:\\FlairsTech\\Assesment\\FT Task\\Backend\\AppBackend\\App.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Toshiba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "I:\\FlairsTech\\Assesment\\FT Task\\Backend\\AppBackend\\App.Application\\App.Application.csproj": {
+              "projectPath": "I:\\FlairsTech\\Assesment\\FT Task\\Backend\\AppBackend\\App.Application\\App.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
