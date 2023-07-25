@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0YEyyMQpq/sEZjTwDQhnXA8o1XRlVP+9S8ivAzwhvGYOL7mDnyBwSdXraHI0msbbTOhm4xrRRr4NSGPCEoWx1w==",
+  "dgSpecHash": "tX4VSAuIXeQgNJCkZ3TJ9TqKMaiNLKaKSTznAsRcM2jLaszenHe5ASrArbmMGUTrnzaXYJX+rU8xr2reK83WGQ==",
   "success": true,
   "projectFilePath": "I:\\FlairsTech\\Assesment\\FT Task\\Backend\\AppBackend\\App.Application\\App.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -38,3 +38,15 @@ I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.API\bin\Debug\net6.0\App.
 I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.API\bin\Debug\net6.0\App.Contracts.pdb
 I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.API\bin\Debug\net6.0\App.Infrastructure.pdb
 I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.API\bin\Debug\net6.0\App.Domain.pdb
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.API\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll

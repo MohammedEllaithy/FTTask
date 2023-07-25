@@ -1,15 +1,36 @@
 {
   "version": 2,
-  "dgSpecHash": "/SG8y098wfqUN68PYW8jWAxpKh79bYrjgmCqc+CYuTll4iFLRe7srpIZ1QC3tjgXcyHnn4yTU+1CDEzsTXNdNA==",
+  "dgSpecHash": "CWM0kGTD8m5tW/ipC8AsZmYuXSP5P9l4lEpf+MBChuvjJb2wvFau1gNV0Fjv0yva0V70PGOcrDcNzp4LmZRPBQ==",
   "success": true,
   "projectFilePath": "I:\\FlairsTech\\Assesment\\FT Task\\Backend\\AppBackend\\App.API\\App.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.0\\microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\7.0.0\\microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.32.0\\microsoft.identitymodel.abstractions.6.32.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.32.0\\microsoft.identitymodel.jsonwebtokens.6.32.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.identitymodel.logging\\6.32.0\\microsoft.identitymodel.logging.6.32.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.32.0\\microsoft.identitymodel.tokens.6.32.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Toshiba\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\Toshiba\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\Toshiba\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\Toshiba\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "C:\\Users\\Toshiba\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.32.0\\system.identitymodel.tokens.jwt.6.32.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
   ],
   "logs": []
 }
