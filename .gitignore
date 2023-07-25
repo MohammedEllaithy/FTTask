@@ -7,4 +7,5 @@
 *.v2
 /Backend/AppBackend/.vs/AppBackend/v17/.suo
 *.2
-/Backend/AppBackend/App.API/bin/Debug/net6.0/App.API.dll
+*.dll
+*pdb
