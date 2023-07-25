@@ -7,3 +7,5 @@
 *.v2
 /Backend/AppBackend/.vs/AppBackend/v17/.suo
 *.2
+/Backend/AppBackend/.vs/AppBackend/FileContentIndex/9bfe1236-83ba-45a8-822f-c364a2063503.vsidx
+/.gitignore
