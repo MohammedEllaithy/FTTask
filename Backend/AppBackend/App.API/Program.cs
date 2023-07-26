@@ -1,12 +1,18 @@
 using App.Application;
 using App.Infrastructure;
+using App.Infrastructure.Authentication;
+using App.Infrastructure.Data;
 using Microsoft.AspNetCore.Authentication;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
+ConfigurationManager configuration = builder.Configuration;
 {
-
+   // builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(configuration.GetConnectionString("connMSSQL")));
     builder.Services.AddApplication().AddInfrastructure(builder.Configuration);
     builder.Services.AddControllers();
+   // builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(GetConnectionString(ConnectionStrings.connMSSQL)));
 
 }
 

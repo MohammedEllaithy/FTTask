@@ -1,4 +1,5 @@
-﻿using App.Contracts.Authentication;
+﻿using App.Application.Services.Authentication;
+using App.Contracts.Authentication;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,11 +9,18 @@ namespace App.API.Controllers
     [ApiController]
     public class AuthenticationController : ControllerBase
     {
-        [HttpPost("register")]
-        public IActionResult Register(RegisterRequest request)
+        private IAuthenticationService _authenticationService;
+
+        public AuthenticationController(IAuthenticationService authenticationService)
         {
-            return Ok(request);
+            _authenticationService = authenticationService;
         }
+
+        //[HttpPost("register")]
+        //public IActionResult Register(RegisterRequest request)
+        //{
+        //   // var authResult = _authenticationService
+        //}
 
         [HttpPost("login")]
         public IActionResult Login(LoginRequest request)

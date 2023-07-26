@@ -1,4 +1,5 @@
 I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.deps.json
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.runtimeconfig.json
 I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.dll
 I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.pdb
 I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Infrastructure\bin\Debug\net6.0\App.Application.dll
@@ -14,4 +15,5 @@ I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Infrastructure\obj\Debug\
 I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.dll
 I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Infrastructure\obj\Debug\net6.0\refint\App.Infrastructure.dll
 I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.pdb
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.genruntimeconfig.cache
 I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.Infrastructure\obj\Debug\net6.0\ref\App.Infrastructure.dll

@@ -24,15 +24,15 @@ namespace App.Infrastructure.Authentication
             _jwtSettings = jwtOptions.Value;
         }
 
-        public string GenerateToken(Guid userId, string FirstName, string LastName)
+        public string GenerateToken(Guid userId, string Name, string UserName)
         {
             var signingCredentials = new SigningCredentials(
                 new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwtSettings.Secret)), SecurityAlgorithms.HmacSha256);
             var claims = new[]
             {
                 new Claim(JwtRegisteredClaimNames.Sub , userId.ToString()),
-                new Claim(JwtRegisteredClaimNames.GivenName , FirstName.ToString()),
-                new Claim(JwtRegisteredClaimNames.FamilyName , LastName.ToString()),
+                new Claim(JwtRegisteredClaimNames.GivenName , Name.ToString()),
+                new Claim(JwtRegisteredClaimNames.UniqueName , UserName.ToString()),
                 new Claim(JwtRegisteredClaimNames.Jti , Guid.NewGuid().ToString())
 
             };
