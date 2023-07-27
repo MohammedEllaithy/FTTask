@@ -16,7 +16,7 @@ public class UsersController : ControllerBase
         _userService = userService;
     }
 
-    [HttpPost("register")]
+    [HttpPost("Register")]
     public async Task<IActionResult> RegisterUser([FromBody] RegisterRequest request)
     {
         try
@@ -30,7 +30,7 @@ public class UsersController : ControllerBase
         }
     }
 
-    [HttpPost("authenticate")]
+    [HttpPost("Authenticate")]
     public async Task<IActionResult> AuthenticateUser([FromBody] LoginRequest request)
     {
         try
@@ -44,7 +44,7 @@ public class UsersController : ControllerBase
         }
     }
 
-    [HttpGet("Getall")]
+    [HttpGet("GetAll")]
     public async Task<IActionResult> GetAllUsers()
     {
         try

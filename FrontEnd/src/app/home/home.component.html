@@ -1,0 +1,23 @@
+﻿<div class="card mt-4">
+    <h4 class="card-header py-3">You're logged in with Angular </h4>
+    <div class="card-body">
+        <h6>Users from secure api end point</h6>
+     
+    </div>
+</div>
+<table class="table">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Email</th>
+        <th scope="col">Username</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let user of users; let i = index">
+        <th scope="row">{{ i + 1 }}</th>
+        <td>{{ user.email }}</td>
+        <td>{{ user.userName }}</td>
+      </tr>
+    </tbody>
+  </table>
