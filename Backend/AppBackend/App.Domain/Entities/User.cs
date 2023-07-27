@@ -14,8 +14,7 @@ namespace App.Domain.Entities
     {
 
         public string Name { get; set; }
-        //public string Username { get; set; }
-       // public string Email { get; set; }
+
         [ForeignKey("Address")]
         public int AddressId { get; set; }
         public Address Address { get; set; }

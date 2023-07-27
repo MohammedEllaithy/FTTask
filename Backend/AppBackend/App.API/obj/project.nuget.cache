@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CRWAfaDUK3w4XN6eGs7jHvou6OmikLqn3B4dGGWN/foG4I1+gNpV3lJFcEgIRdts6zHfvYFQlDxrgpMDvt+7fg==",
+  "dgSpecHash": "yvZWHi68Wo6CdS3Xs8t6ZH/y8mI1T/oyhygrMFVWywruc7gpsyVUtGJIuTeC+D/FQAAnqL/CYHvefMInjbnjYA==",
   "success": true,
   "projectFilePath": "I:\\FlairsTech\\Assesment\\FT Task\\Backend\\AppBackend\\App.API\\App.API.csproj",
   "expectedPackageFiles": [
@@ -63,6 +63,7 @@
     "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Toshiba\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\Toshiba\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\Toshiba\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",

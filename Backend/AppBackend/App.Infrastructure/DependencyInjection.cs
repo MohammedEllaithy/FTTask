@@ -4,6 +4,7 @@ using App.Application.Common.Interfaces.Services;
 using App.Domain.Entities;
 using App.Infrastructure.Authentication;
 using App.Infrastructure.Data;
+using App.Infrastructure.External;
 using App.Infrastructure.Presistence;
 using App.Infrastructure.Services;
 using Microsoft.AspNetCore.Identity;
@@ -31,19 +32,18 @@ namespace App.Infrastructure
             services.Configure<JwtSettings>(configuration.GetSection(JwtSettings.SectionName));
             services.AddSingleton<IJwtTokenGenerator, JwtTokenGenerator>();
             services.AddSingleton<IDateTimeProvider, DateTimeProvider>();
-
-            //services.AddScoped<IUserRepository, UserRepository>();
-            //services.AddDefaultIdentity<User>().AddEntityFrameworkStores<ApplicationDbContext>();
-            //services.AddIdentity<User, IdentityRole<Guid>>().AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
-            services.AddIdentity<User, IdentityRole<Guid>>()
-    .AddEntityFrameworkStores<ApplicationDbContext>()
-    .AddDefaultTokenProviders();
+            services.AddScoped<IUserRepository, UserRepository>();
+            //services.AddHostedService<ExternalUserService>();
+            //        services.AddIdentity<User, IdentityRole<Guid>>()
+            //.AddEntityFrameworkStores<ApplicationDbContext>()
+            //.AddDefaultTokenProviders();
 
             return services;
         }
 
         public static IServiceCollection AddPersistance(this IServiceCollection services)
         {
+            //services.AddScoped<IUserRepository, UserRepository>();
             services.AddDbContext<ApplicationDbContext>(options =>
          options.UseSqlServer("Server=DESKTOP-MV029GE;Database=AppDB;Trusted_Connection=True;MultipleActiveResultSets=true"));
             services.AddDefaultIdentity<User>();

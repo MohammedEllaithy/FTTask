@@ -34,6 +34,7 @@ I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.API\bin\Debug\net6.0\Micr
 I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
 I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.API\bin\Debug\net6.0\Newtonsoft.Json.dll
 I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 I:\FlairsTech\Assesment\FT Task\Backend\AppBackend\App.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
